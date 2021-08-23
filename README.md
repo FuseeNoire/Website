@@ -1,2 +1,2 @@
 # Wébsite
-The website for Fusée Noire website
+The website for Fusée Noire.
